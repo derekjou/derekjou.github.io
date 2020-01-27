@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d229712.chunk.css",
-    "main.js": "/static/js/main.2f1f706e.chunk.js",
-    "main.js.map": "/static/js/main.2f1f706e.chunk.js.map",
+    "main.css": "/static/css/main.8af46315.chunk.css",
+    "main.js": "/static/js/main.6f553bea.chunk.js",
+    "main.js.map": "/static/js/main.6f553bea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
     "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
     "static/js/2.5c3c249d.chunk.js": "/static/js/2.5c3c249d.chunk.js",
     "static/js/2.5c3c249d.chunk.js.map": "/static/js/2.5c3c249d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.78153323711cbea2ed5f6bf06fa34c7c.js": "/precache-manifest.78153323711cbea2ed5f6bf06fa34c7c.js",
+    "precache-manifest.025abbab8ea8a842a06fc116ea33e14f.js": "/precache-manifest.025abbab8ea8a842a06fc116ea33e14f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0d229712.chunk.css.map": "/static/css/main.0d229712.chunk.css.map",
+    "static/css/main.8af46315.chunk.css.map": "/static/css/main.8af46315.chunk.css.map",
     "static/js/2.5c3c249d.chunk.js.LICENSE": "/static/js/2.5c3c249d.chunk.js.LICENSE",
     "static/media/bonk2.m4a": "/static/media/bonk2.3950c8bc.m4a",
-    "static/media/cat.png": "/static/media/cat.910d5e46.png",
     "static/media/cooldox.png": "/static/media/cooldox.314a4901.png",
     "static/media/css.png": "/static/media/css.74dd780a.png",
     "static/media/express.png": "/static/media/express.4925c50c.png",
@@ -23,7 +22,6 @@
     "static/media/html.png": "/static/media/html.c144ce76.png",
     "static/media/jquery.png": "/static/media/jquery.64dd08ca.png",
     "static/media/js.png": "/static/media/js.4ed5c9ce.png",
-    "static/media/lakers.png": "/static/media/lakers.68a49ebb.png",
     "static/media/linkedin.png": "/static/media/linkedin.86e7e2af.png",
     "static/media/logo.png": "/static/media/logo.801f9f29.png",
     "static/media/mail.png": "/static/media/mail.5249985e.png",
@@ -41,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2b20a0b.js",
     "static/js/2.5c3c249d.chunk.js",
-    "static/css/main.0d229712.chunk.css",
-    "static/js/main.2f1f706e.chunk.js"
+    "static/css/main.8af46315.chunk.css",
+    "static/js/main.6f553bea.chunk.js"
   ]
 }
