@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.268e94a4.chunk.css",
-    "main.js": "/static/js/main.3f2794e7.chunk.js",
-    "main.js.map": "/static/js/main.3f2794e7.chunk.js.map",
+    "main.css": "/static/css/main.a86f9b3a.chunk.css",
+    "main.js": "/static/js/main.f8ad85fa.chunk.js",
+    "main.js.map": "/static/js/main.f8ad85fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
     "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
     "static/js/2.5c3c249d.chunk.js": "/static/js/2.5c3c249d.chunk.js",
     "static/js/2.5c3c249d.chunk.js.map": "/static/js/2.5c3c249d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.03127a349484e1f5e99079bd5c79e4b4.js": "/precache-manifest.03127a349484e1f5e99079bd5c79e4b4.js",
+    "precache-manifest.e57cb20089fd4fc2b631591d5bc37d06.js": "/precache-manifest.e57cb20089fd4fc2b631591d5bc37d06.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.268e94a4.chunk.css.map": "/static/css/main.268e94a4.chunk.css.map",
+    "static/css/main.a86f9b3a.chunk.css.map": "/static/css/main.a86f9b3a.chunk.css.map",
     "static/js/2.5c3c249d.chunk.js.LICENSE": "/static/js/2.5c3c249d.chunk.js.LICENSE",
+    "static/media/0.wav": "/static/media/0.70415e9c.wav",
+    "static/media/1.wav": "/static/media/1.a4e85564.wav",
+    "static/media/2.wav": "/static/media/2.ae9f02b4.wav",
+    "static/media/3.wav": "/static/media/3.f133191d.wav",
+    "static/media/4.wav": "/static/media/4.51951e31.wav",
+    "static/media/5.wav": "/static/media/5.9a14724b.wav",
+    "static/media/6.wav": "/static/media/6.4935d2db.wav",
     "static/media/bonk2.m4a": "/static/media/bonk2.3950c8bc.m4a",
     "static/media/cooldox.png": "/static/media/cooldox.314a4901.png",
     "static/media/css.png": "/static/media/css.74dd780a.png",
@@ -28,7 +35,6 @@
     "static/media/mentions.png": "/static/media/mentions.769b09a9.png",
     "static/media/mongo.png": "/static/media/mongo.277d2522.png",
     "static/media/node.png": "/static/media/node.92e54506.png",
-    "static/media/App.css": "/static/media/office.273ed7d3.jpg",
     "static/media/postman.png": "/static/media/postman.88b80f29.png",
     "static/media/python.png": "/static/media/python.d9c6e4b2.png",
     "static/media/react.png": "/static/media/react.82a318cc.png",
@@ -38,7 +44,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2b20a0b.js",
     "static/js/2.5c3c249d.chunk.js",
-    "static/css/main.268e94a4.chunk.css",
-    "static/js/main.3f2794e7.chunk.js"
+    "static/css/main.a86f9b3a.chunk.css",
+    "static/js/main.f8ad85fa.chunk.js"
   ]
 }
